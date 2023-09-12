@@ -22,19 +22,19 @@
     }
   ],
   "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {6660603702:AAEHntcJ_jifytS4ZsZQh29Mx0yJH9nJB8w
             "description": "A bot token from @BotFather",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {21187010
             "description": "App ID from my.telegram.org/apps",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {bd8f5a4bc79cab1311f84a0f06d6b6cc
             "description": "App Hash from my.telegram.org/apps",
             "required": true
         },
-        "OWNER_ID": {
+        "OWNER_ID": {6344970849
             "description": "Owner's numeric ID",
             "required": true
         }
